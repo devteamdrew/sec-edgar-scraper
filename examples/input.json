@@ -1,0 +1,9 @@
+{
+  "mode": "fullTextSearch",
+  "query": "\"web scraping\"",
+  "forms": [
+    "10-K"
+  ],
+  "startDate": "2025-01-01",
+  "maxItems": 20
+}
