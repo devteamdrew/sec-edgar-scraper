@@ -85,7 +85,10 @@ Browse real sample rows, download a free CSV sample and see ready-made feeds at 
 - [Lemmy Scraper – Posts, Comments & Communities (Fediverse)](https://apify.com/devteamdrew/lemmy-scraper?utm_source=github&utm_medium=readme&utm_campaign=sec-edgar-scraper&utm_content=more)
 - [arXiv Scraper – Paper Search, Abstracts & Authors](https://apify.com/devteamdrew/arxiv-scraper?utm_source=github&utm_medium=readme&utm_campaign=sec-edgar-scraper&utm_content=more)
 - [UK Public Tenders Scraper – Contracts Finder & Find a Tender](https://apify.com/devteamdrew/uk-public-tenders?utm_source=github&utm_medium=readme&utm_campaign=sec-edgar-scraper&utm_content=more)
-- [CQC Care Homes & Providers Scraper – UK Care Directory Leads](https://apify.com/devteamdrew/uk-cqc-care-providers?utm_source=github&utm_medium=readme&utm_campaign=sec-edgar-scraper&utm_content=more)
+- [CQC Care Homes & Providers Scraper – Ratings & UK Care Leads](https://apify.com/devteamdrew/uk-cqc-care-providers?utm_source=github&utm_medium=readme&utm_campaign=sec-edgar-scraper&utm_content=more)
+- [SAM.gov Contract Opportunities Scraper – US Federal Tenders](https://apify.com/devteamdrew/sam-gov-opportunities?utm_source=github&utm_medium=readme&utm_campaign=sec-edgar-scraper&utm_content=more)
+- [UK Operator Licence Scraper – HGV & Bus Operators (DVSA VOL)](https://apify.com/devteamdrew/uk-operator-licences?utm_source=github&utm_medium=readme&utm_campaign=sec-edgar-scraper&utm_content=more)
+- [USAspending Federal Awards Scraper – Contracts & Grants](https://apify.com/devteamdrew/usaspending-awards?utm_source=github&utm_medium=readme&utm_campaign=sec-edgar-scraper&utm_content=more)
 
 ## License
 
